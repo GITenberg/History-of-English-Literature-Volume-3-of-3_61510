@@ -1,5 +1,5 @@
 _repo: History-of-English-Literature-Volume-3-of-3_61510
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Van Laun, Henri
@@ -11,6 +11,9 @@ contributor:
     gutenberg_agent_id: '43884'
     url: http://www.gutenberg.org/2009/agents/43884
     wikipedia: https://en.wikipedia.org/wiki/Henri_Van_Laun
+covers:
+- cover_type: archival
+  image_path: 61510-h/images/taine03_cover.jpg
 creator:
   author:
     agent_name: Taine, Hippolyte
@@ -27,6 +30,8 @@ creator:
     - https://fr.wikipedia.org/wiki/Hippolyte_Taine
     - https://en.wikipedia.org/wiki/Hippolyte_Taine
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61510#History-of-English-Literature-Volume-3-of-3
 gutenberg_issued: '2020-02-25'
 gutenberg_type: Text
 identifiers:
